@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 17 Mar 2023 00:50:00 GMT
+ * Generated on Fri, 17 Mar 2023 00:52:20 GMT
  */
 
 :root {
@@ -12,7 +12,6 @@
   --sd-border-radius-sm: 4px;
   --sd-border-radius-lg: 8px;
   --sd-border-radius-xl: 16px;
-  --sd-border-radius-multi-value: 4px 8px;
   --sd-colors-black: #000000;
   --sd-colors-white: #ffffff;
   --sd-colors-gray-100: #f7fafc;
