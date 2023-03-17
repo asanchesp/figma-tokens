@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 17 Mar 2023 00:32:57 GMT
+ * Generated on Fri, 17 Mar 2023 00:50:00 GMT
  */
 
 :root {
@@ -12,6 +12,7 @@
   --sd-border-radius-sm: 4px;
   --sd-border-radius-lg: 8px;
   --sd-border-radius-xl: 16px;
+  --sd-border-radius-multi-value: 4px 8px;
   --sd-colors-black: #000000;
   --sd-colors-white: #ffffff;
   --sd-colors-gray-100: #f7fafc;
@@ -120,13 +121,13 @@
   --sd-font-weights-heading-bold: Bold;
   --sd-font-weights-body-regular: Regular;
   --sd-font-weights-body-bold: Bold;
-  --sd-font-sizes-h1: 16 * 1 * 1.25 * 1.25 * 1.25 * 1.25 * 1.25;
-  --sd-font-sizes-h2: 16 * 1 * 1.25 * 1.25 * 1.25 * 1.25;
-  --sd-font-sizes-h3: 16 * 1 * 1.25 * 1.25 * 1.25;
-  --sd-font-sizes-h4: 16 * 1 * 1.25 * 1.25;
-  --sd-font-sizes-h5: 16 * 1 * 1.25;
-  --sd-font-sizes-h6: 16 * 1;
-  --sd-font-sizes-body: 16;
-  --sd-font-sizes-sm: 16 * 0.85;
-  --sd-font-sizes-xs: 16 * 0.65;
+  --sd-font-sizes-h1: 48px;
+  --sd-font-sizes-h2: 40px;
+  --sd-font-sizes-h3: 32px;
+  --sd-font-sizes-h4: 24px;
+  --sd-font-sizes-h5: 20px;
+  --sd-font-sizes-h6: 16px;
+  --sd-font-sizes-body: 16px;
+  --sd-font-sizes-sm: 14px;
+  --sd-font-sizes-xs: 12px;
 }
